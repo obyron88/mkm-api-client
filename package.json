@@ -1,0 +1,24 @@
+{
+  "name": "mkm-api",
+  "version": "2.0.0",
+  "description": "",
+  "main": "mkm.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fishingrod": "^3.7.0",
+    "oauth-percent-encode": "^0.1.2",
+    "cryptojs": "^2.5.3",
+    "utf8": "^2.1.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
