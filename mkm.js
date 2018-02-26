@@ -1,6 +1,5 @@
 var api = {};
 
-
 function MkmApiClient(key, secret){
 	this.app_key = key;
 	this.app_secret = secret;
